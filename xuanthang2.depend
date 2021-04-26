@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1619166478 source:c:\users\dell\documents\a.py\xuanthang2\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"Global.h"
+	"Piece.h"
+	"Draw.h"
+	"Button.h"
+	"Text.h"
+	"Music.h"
+	<sstream>
+	<iostream>
+
+1561870398 c:\sdl2_image.codeblocks\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322290 c:\sdl2_ttf.codeblocks\sdl2_ttf-2.0.15\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540998018 c:\sdl2_mixer.codeblocks\sdl2_mixer-2.0.4\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1612492227 source:c:\users\dell\documents\a.py\xuanthang2\untitled1.c
+
+1619431544 c:\users\dell\documents\a.py\xuanthang2\global.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<sstream>
+	<string>
+	<iostream>
+	<fstream>
+
+1616914920 source:c:\users\dell\documents\a.py\xuanthang2\chess_piece.cpp
+	"Chess_Piece.h"
+	"Global.h"
+
+1616914907 c:\users\dell\documents\a.py\xuanthang2\chess_piece.h
+	<SDL.h>
+	<SDL_image.h>
+
+1618070439 source:c:\users\dell\documents\a.py\xuanthang2\button.cpp
+	"Button.h"
+	"Global.h"
+	"Draw.h"
+	"Piece.h"
+
+1618070439 c:\users\dell\documents\a.py\xuanthang2\button.h
+	<SDL.h>
+	<SDL_image.h>
+
+1618412887 c:\users\dell\documents\a.py\xuanthang2\draw.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1618070439 c:\users\dell\documents\a.py\xuanthang2\piece.h
+	<SDL.h>
+	<SDL_image.h>
+
+1618412887 source:c:\users\dell\documents\a.py\xuanthang2\draw.cpp
+	"Draw.h"
+	"Global.h"
+	"Text.h"
+
+1618409098 source:c:\users\dell\documents\a.py\xuanthang2\piece.cpp
+	"Piece.h"
+	"Global.h"
+	"Draw.h"
+
+1618392314 source:c:\users\dell\documents\a.py\xuanthang2\text.cpp
+	"Text.h"
+	"Global.h"
+
+1618392314 c:\users\dell\documents\a.py\xuanthang2\text.h
+	"Global.h"
+
+1619166286 source:c:\users\dell\documents\a.py\xuanthang2\music.cpp
+	"Global.h"
+	"Music.h"
+
+1619166286 c:\users\dell\documents\a.py\xuanthang2\music.h
+	"Global.h"
+
